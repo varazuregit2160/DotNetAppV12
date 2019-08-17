@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAppV12", "DotNetAppV12\DotNetAppV12.csproj", "{997C6D3C-0153-42CE-98DE-68AD844E188B}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "DotNetAppV11Grp", "DotNetAppV11Grp\DotNetAppV11Grp.deployproj", "{2FE3D99E-BD0A-463F-B8E7-CB8D1904F35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997C6D3C-0153-42CE-98DE-68AD844E188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997C6D3C-0153-42CE-98DE-68AD844E188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997C6D3C-0153-42CE-98DE-68AD844E188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997C6D3C-0153-42CE-98DE-68AD844E188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE3D99E-BD0A-463F-B8E7-CB8D1904F35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE3D99E-BD0A-463F-B8E7-CB8D1904F35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE3D99E-BD0A-463F-B8E7-CB8D1904F35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE3D99E-BD0A-463F-B8E7-CB8D1904F35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD095258-7D78-4992-AD5F-01D1B02FFF5F}
+	EndGlobalSection
+EndGlobal
